@@ -1,0 +1,133 @@
+GAME	DATE	SCORE	PTS	REB	AST	MIN	2M-2A	3M-3A	FG%	1M-1A	1%	OR	DR	REB	AST	STL	TO	BLK	PTS	EFF
+	19-Oct-22	L 126-117	26	15	5	37	12-Aug	6-Jan	50.00%	9-Jul	77.80%	1	14	15	5	0	6	1	26	30
+@ Boston Celtics																				
+	21-Oct-22	L 88-90	15	12	3	36	18-May	3-Jan	28.60%	3-Feb	66.70%	1	11	12	3	0	4	1	15	11
+vs Milwaukee Bucks																				
+	23-Oct-22	L 105-114	40	13	3	36	14-23	0-2	56.00%	15-Dec	80.00%	3	10	13	3	1	2	2	40	43
+vs San Antonio Spurs																				
+	25-Oct-22	W 120-106	26	5	2	28	10-Jul	3-Jan	61.50%	9-Sep	100.00%	1	4	5	2	1	3	3	26	29
+vs Indiana Pacers																				
+	27-Oct-22	L 119-109	31	5	3	38	13-Oct	4-Feb	70.60%	7-May	71.40%	0	5	5	3	0	2	0	31	30
+@ Toronto Raptors																				
+	30-Oct-22	W 109-114	25	7	4	32	13-Aug	2-Jan	60.00%	9-Jun	66.70%	2	5	7	4	1	5	0	25	23
+@ Chicago Bulls																				
+	8-Nov-22	W 100-88	33	10	5	37	17-Jul	4-Jan	38.10%	16-16	100.00%	7	3	10	5	0	3	1	33	33
+vs Phoenix Suns																				
+	11-Nov-22	L 104-95	26	13	2	32	15-Sep	0-3	50.00%	10-Aug	80.00%	0	13	13	2	1	7	1	26	25
+@ Atlanta Hawks																				
+	13-Nov-22	W 121-109	42	10	6	40	13-19	6-Jan	56.00%	13-16	81.30%	0	10	10	6	2	4	2	42	44
+vs Atlanta Hawks																				
+	14-Nov-22	W 105-98	59	11	8	37	18-23	5-Jan	67.90%	20-24	83.30%	1	10	11	8	1	5	7	59	68
+vs Utah Jazz																				
+	19-Nov-22	W 110-102	32	11	8	37	20-Oct	6-Feb	46.20%	8-Jun	75.00%	1	10	11	8	1	5	3	32	34
+vs Milwaukee Bucks																				
+	20-Nov-22	L 109-112	32	9	6	36	11-Apr	4-Feb	40.00%	18-20	90.00%	1	8	9	6	3	6	0	32	33
+vs Minnesota Timberwolves																				
+	29-Nov-22	W 104-101	30	8	7	35	17-Sep	0-1	50.00%	13-Dec	92.30%	1	7	8	7	2	4	2	30	35
+vs Atlanta Hawks																				
+	1-Dec-22	L 113-85	19	6	6	29	16-Jun	0-0	37.50%	9-Jul	77.80%	3	3	6	6	3	1	0	19	21
+@ Cleveland Cavaliers																				
+	3-Dec-22	L 117-109	35	11	8	41	23-Dec	3-Jan	50.00%	9-Aug	88.90%	1	10	11	8	1	3	3	35	41
+@ Memphis Grizzlies																				
+	6-Dec-22	L 132-123	39	7	3	35	19-Nov	2-Jan	57.10%	14-17	82.40%	3	4	7	3	2	5	2	39	36
+@ Houston Rockets																				
+	10-Dec-22	W 133-122	38	12	5	46	15-Nov	4-Mar	73.70%	8-Jul	87.50%	3	9	12	5	1	7	0	38	43
+vs Los Angeles Lakers																				
+	12-Dec-22	W 131-113	53	12	3	34	18-29	3-Feb	62.50%	11-Nov	100.00%	3	9	12	3	0	2	1	53	55
+vs Charlotte Hornets																				
+	14-Dec-22	W 123-103	31	7	2	30	15-Oct	0-1	62.50%	13-Nov	84.60%	1	6	7	2	1	3	1	31	31
+vs Sacramento Kings																				
+	17-Dec-22	W 118-106	34	13	4	36	20-Sep	3-Feb	47.80%	12-Oct	83.30%	3	10	13	4	4	6	2	34	37
+vs Golden State Warriors																				
+	20-Dec-22	W 104-101	28	11	4	42	13-Apr	3-Feb	37.50%	14-15	93.30%	0	11	11	4	2	3	0	28	31
+vs Toronto Raptors																				
+	22-Dec-22	W 113-93	22	10	6	34	15-Jun	0-1	37.50%	11-Oct	90.90%	0	10	10	6	0	1	4	22	30
+vs Detroit Pistons																				
+	24-Dec-22	W 119-114	44	7	3	38	17-26	4-Jan	60.00%	7-Jul	100.00%	2	5	7	3	1	1	2	44	44
+vs LA Clippers																				
+	25-Dec-22	W 112-119	35	8	1	34	20-Nov	2-Jan	54.50%	15-Oct	66.70%	3	5	8	1	0	3	0	35	26
+@ New York Knicks																				
+	28-Dec-22	L 116-111	48	9	1	36	16-26	5-Jan	54.80%	13-14	92.90%	3	6	9	1	3	3	3	48	46
+@ Washington Wizards																				
+	31-Dec-22	L 127-116	37	8	5	34	13-20	2-Jan	63.60%	10-Aug	80.00%	1	7	8	5	1	5	1	37	37
+@ New Orleans Pelicans																				
+	1-Jan-23	W 96-115	16	13	10	28	14-Jun	0-3	35.30%	6-Apr	66.70%	2	11	13	10	1	4	4	16	27
+@ Oklahoma City Thunder																				
+	3-Jan-23	W 120-111	42	11	5	36	13-21	3-Feb	62.50%	10-Oct	100.00%	2	9	11	5	1	4	1	42	47
+vs New Orleans Pelicans																				
+	11-Jan-23	W 147-116	36	11	1	24	17-Nov	3-Jan	60.00%	11-Nov	100.00%	2	9	11	1	0	3	2	36	39
+vs Detroit Pistons																				
+	13-Jan-23	L 114-133	30	10	2	28	16-Oct	0-1	58.80%	10-Oct	100.00%	2	8	10	2	0	3	1	30	33
+vs Oklahoma City Thunder																				
+	15-Jan-23	W 117-118	30	7	2	36	15-Jul	3-Feb	50.00%	13-Oct	76.90%	1	6	7	2	0	2	2	30	27
+@ Utah Jazz																				
+	16-Jan-23	W 112-113	35	11	4	36	16-Oct	5-Feb	57.10%	12-Sep	75.00%	0	11	11	4	1	1	1	35	39
+@ Los Angeles Lakers																				
+	18-Jan-23	W 110-120	41	9	3	33	17-Oct	5-Feb	54.50%	15-18	83.30%	3	6	9	3	0	5	2	41	37
+@ LA Clippers																				
+	20-Jan-23	W 95-105	32	9	2	33	19-Nov	3-Jan	54.50%	7-Jul	100.00%	1	8	9	2	1	2	3	32	35
+@ Portland Trail Blazers																				
+	26-Jan-23	W 137-133	26	10	3	35	13-May	5-Jan	33.30%	13-13	100.00%	2	8	10	3	2	2	0	26	27
+vs Brooklyn Nets																				
+	28-Jan-23	W 126-119	47	18	5	38	14-24	7-Apr	58.10%	10-Jul	70.00%	6	12	18	5	3	6	2	47	53
+vs Denver Nuggets																				
+	31-Jan-23	L 109-119	30	11	5	33	17-Oct	3-Jan	55.00%	11-Jul	63.60%	1	10	11	5	2	5	2	30	32
+vs Orlando Magic																				
+	2-Feb-23	W 105-94	28	11	3	35	16-Sep	0-1	52.90%	10-Oct	100.00%	3	8	11	3	0	2	1	28	33
+vs Orlando Magic																				
+	4-Feb-23	W 125-137	33	10	4	28	15-Aug	3-Feb	55.60%	13-Nov	84.60%	2	8	10	4	2	3	0	33	36
+@ San Antonio Spurs																				
+	6-Feb-23	L 108-97	31	14	3	36	12-May	4-Jan	37.50%	18-19	94.70%	2	12	14	3	0	5	1	31	33
+@ New York Knicks																				
+	9-Feb-23	L 106-99	28	7	1	39	18-Oct	3-Jan	52.40%	7-May	71.40%	0	7	7	1	2	2	1	28	25
+@ Boston Celtics																				
+	11-Feb-23	W 119-108	35	11	6	38	14-17	0-1	77.80%	10-Jul	70.00%	2	9	11	6	1	1	2	35	47
+vs New York Knicks																				
+	12-Feb-23	W 98-101	37	13	2	37	16-Nov	2-Jan	66.70%	13-Dec	92.30%	2	11	13	2	2	3	0	37	44
+@ Brooklyn Nets																				
+	14-Feb-23	W 123-104	23	6	4	31	12-Jul	2-Jan	57.10%	6-Jun	100.00%	0	6	6	4	1	3	0	23	25
+vs Houston Rockets																				
+	16-Feb-23	W 118-112	29	14	5	39	19-Sep	0-2	42.90%	12-Nov	91.70%	1	13	14	5	2	2	1	29	36
+vs Cleveland Cavaliers																				
+	24-Feb-23	W 110-105	27	19	6	39	20-Jul	0-5	28.00%	13-17	76.50%	2	17	19	6	1	2	6	27	35
+vs Memphis Grizzlies																				
+	26-Feb-23	L 107-110	41	12	5	40	20-Dec	0-1	57.10%	17-18	94.40%	1	11	12	5	0	3	3	41	48
+vs Boston Celtics																				
+	28-Feb-23	L 99-101	27	12	2	34	16-Oct	0-1	58.80%	7-Jul	100.00%	3	9	12	2	0	6	1	27	29
+vs Miami Heat																				
+	3-Mar-23	L 133-126	35	8	1	36	13-20	0-1	61.90%	13-Sep	69.20%	4	4	8	1	2	3	0	35	31
+@ Dallas Mavericks																				
+	5-Mar-23	W 130-133	31	6	10	37	17-Aug	5-Mar	50.00%	10-Jun	60.00%	0	6	6	10	0	1	0	31	31
+@ Milwaukee Bucks																				
+	7-Mar-23	W 143-147	42	5	3	37	14-Oct	2-Jan	68.80%	19-19	100.00%	1	4	5	3	2	4	1	42	44
+@ Indiana Pacers																				
+	8-Mar-23	W 94-117	39	7	4	28	18-Sep	4-Apr	59.10%	9-Sep	100.00%	1	6	7	4	1	3	3	39	42
+@ Minnesota Timberwolves																				
+	11-Mar-23	W 120-119	39	7	4	38	13-19	0-1	65.00%	13-18	72.20%	1	6	7	4	2	4	3	39	39
+vs Portland Trail Blazers																				
+	12-Mar-23	W 112-93	34	8	4	31	18-Dec	0-3	57.10%	12-Oct	83.30%	3	5	8	4	1	1	4	34	39
+vs Washington Wizards																				
+	16-Mar-23	W 109-118	36	18	3	38	14-Oct	5-Feb	63.20%	10-Oct	100.00%	3	15	18	3	0	6	4	36	48
+@ Cleveland Cavaliers																				
+	18-Mar-23	W 82-121	38	13	5	29	16-21	0-0	76.20%	7-Jun	85.70%	1	12	13	5	0	3	4	38	51
+@ Charlotte Hornets																				
+	19-Mar-23	W 121-141	31	7	7	30	12-Sep	3-Jan	66.70%	13-Oct	76.90%	2	5	7	7	0	1	2	31	38
+@ Indiana Pacers																				
+	21-Mar-23	L 105-109	37	16	1	44	20-Nov	0-2	50.00%	15-17	88.20%	3	13	16	1	1	5	3	37	40
+vs Chicago Bulls																				
+	23-Mar-23	W 91-116	12	7	7	16	5-May	0-2	71.40%	2-Feb	100.00%	0	7	7	7	1	4	1	12	22
+@ Chicago Bulls																				
+	25-Mar-23	L 120-112	46	9	8	38	18-Dec	5-Jan	56.50%	19-22	86.40%	1	8	9	8	2	3	1	46	50
+@ Golden State Warriors																				
+	26-Mar-23	L 125-105	28	10	4	32	15-Jul	4-Jan	42.10%	13-Nov	84.60%	2	8	10	4	0	3	2	28	28
+@ Phoenix Suns																				
+	30-Mar-23	W 116-108	25	9	3	33	14-Jul	3-Jan	47.10%	9-Aug	88.90%	1	8	9	3	1	4	1	25	25
+vs Dallas Mavericks																				
+	1-Apr-23	W 117-110	25	12	1	34	11-Jul	0-2	53.80%	12-Nov	91.70%	1	11	12	1	0	5	1	25	27
+vs Toronto Raptors																				
+	3-Apr-23	L 117-104	28	9	5	32	18-Oct	7-Jan	44.00%	5-May	100.00%	1	8	9	5	0	1	0	28	27
+@ Milwaukee Bucks																				
+	5-Apr-23	W 103-101	52	13	6	39	20-24	0-1	80.00%	13-Dec	92.30%	2	11	13	6	0	3	2	52	64
+vs Boston Celtics																				
+	7-Apr-23	L 101-129	21	6	2	30	11-Aug	2-Jan	69.20%	4-Feb	50.00%	0	6	6	2	0	2	2	21	23
+vs Miami Heat																				
